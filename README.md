@@ -8,7 +8,7 @@ It is observed that the new pages are mapped to the same physical addresses in r
 ## Steps to run
 ```
 $ make
-$  sudo ./map_unmap_map
+$ sudo ./map_unmap_map
 ```
 
 ## Output
